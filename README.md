@@ -58,12 +58,13 @@ for x in range(height_n):
 - Avoid using very high resolution as well as very detailed images due to the low resolution of the output image.
 - If the image is in the same folder of the `main.py` file, you can open the folder with Visual Studio Code and place the name of the image in `img = cv2.imread('')`, otherwise, you have to place the whole direction of this image.
 # Some results
-![example1](example1.png)
+![example1](https://github.com/zephiroxz/Ascii_art/blob/main/Result%20images/example1.png)
 
-![example2](example2.png)
+![example2](https://github.com/zephiroxz/Ascii_art/blob/main/Result%20images/example2.png)
 
-![example3](example3.png)
+![example3](https://github.com/zephiroxz/Ascii_art/blob/main/Result%20images/example3.png)
 # References
 [1]  https://www.geeksforgeeks.org/opencv-python-tutorial/
+
 [2]  https://www.w3schools.com/python/python_file_write.asp
 
